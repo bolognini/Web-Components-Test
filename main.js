@@ -14,10 +14,10 @@ class CustomButton extends HTMLElement {
           display: block;
           color: white;
           border: none;
-          border-radius: var(--button-border-radius);
-          background-color: var(--dawn);
-          width: var(--button-width);
-          height: var(--button-height);
+          border-radius: 16px;
+          background-color: #87027b;
+          width: 148px;
+          height: 32px;
         }
       </style>
 
