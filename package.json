@@ -1,6 +1,6 @@
 {
   "name": "webcomponentstest",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Just a POC",
   "main": "main.js",
   "scripts": {
