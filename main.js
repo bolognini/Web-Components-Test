@@ -9,6 +9,7 @@ class CustomButton extends HTMLElement {
   render() {
     this.shadow.innerHTML = `
       <style>
+        @import "global.css";
         button {
           display: block;
           color: white;
